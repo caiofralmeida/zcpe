@@ -1,0 +1,6 @@
+<?php
+
+/**
+ * Operadores bitwise...
+ */
+
